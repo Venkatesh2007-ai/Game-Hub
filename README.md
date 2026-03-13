@@ -73,7 +73,7 @@ Used to store user accounts and keep track of player scores.
 
 1. Clone the repository
 
-git clone https://github.com/your-username/GameHub.git
+git clone https://github.com/Venkatesh2007-ai/GameHub.git
 
 2. Open the project in any Java IDE (such as IntelliJ, Eclipse, or VS Code).
 
